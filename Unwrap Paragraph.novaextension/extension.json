@@ -1,0 +1,19 @@
+{
+    "identifier": "com.gingerbeardman.unwraplines",
+    "name": "Unwrap Paragraph",
+    "organization": "gingerbeardman",
+    "description": "Merges multiple lines of select text into one",
+    "version": "1.0",
+    "categories": ["commands"],
+    "main": "main.js",
+    "commands": {
+        "editor": [
+            {
+                "title": "Unwrap Paragraph",
+                "command": "com.gingerbeardman.reformat",
+                "shortcut": "control-q",
+                "when": "editorHasSelection"
+            }
+        ]
+    }
+}
