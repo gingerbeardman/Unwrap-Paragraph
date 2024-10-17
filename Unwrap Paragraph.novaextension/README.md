@@ -1,6 +1,6 @@
 **Unwrap Paragraph** adds the ability to merge multiple lines of select text into one.
 
-This is useful for combining multiple lines of data into one, or reflowing a paragraph of text that has had manual line breaks applied such as something pasted from an old email. It also colalesces areas of white space into a single space. So, it's not just "Join Lines" but something more specific.
+This is useful for combining multiple lines of data into one, or reflowing a paragraph of text that has had manual line breaks applied such as something pasted from an old email. It also coalesces areas of white space into a single space. So, it's not just "Join Lines" but something more specific.
 
 In the _TextMate_ editor this command is called Unwrap Paragraph, which is why I've kept the same name.
 
