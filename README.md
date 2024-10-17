@@ -2,7 +2,7 @@
 
 Unwrap Paragraph is an extension for the [Nova editor](https://nova.app).
 
-Merges multiple lines of select text into one.
+Merges multiple lines of selected text into one.
 
 See the internal [README](/Unwrap%20Paragraph.novaextension/README.md) for more info.
 

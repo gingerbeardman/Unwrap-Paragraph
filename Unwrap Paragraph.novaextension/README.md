@@ -1,4 +1,4 @@
-**Unwrap Paragraph** adds the ability to merge multiple lines of select text into one.
+**Unwrap Paragraph** adds the ability to merge multiple lines of selected text into one.
 
 This is useful for combining multiple lines of data into one, or reflowing a paragraph of text that has had manual line breaks applied such as something pasted from an old email. It also coalesces areas of white space into a single space. So, it's not just "Join Lines" but something more specific.
 
