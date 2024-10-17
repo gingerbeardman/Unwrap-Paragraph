@@ -1,16 +1,23 @@
 {
-    "identifier": "com.gingerbeardman.unwraplines",
+    "bugs": "https://github.com/gingerbeardman/Unwrap-Paragraph/issues",
+    "description": "Merges multiple lines of select text into one",
+    "funding": "https://ko-fi.com/gingerbeardman",
+    "identifier": "com.gingerbeardman.unwraptext",
+    "homepage": "https://www.gingerbeardman.com",
     "name": "Unwrap Paragraph",
     "organization": "gingerbeardman",
-    "description": "Merges multiple lines of select text into one",
-    "version": "1.0",
+    "repository": "https://github.com/gingerbeardman/Unwrap-Paragraph",
+    "version": "1.0.0",
+
     "categories": ["commands"],
+
     "main": "main.js",
+
     "commands": {
         "editor": [
             {
                 "title": "Unwrap Paragraph",
-                "command": "com.gingerbeardman.reformat",
+                "command": "com.gingerbeardman.unwraptext",
                 "shortcut": "control-q",
                 "when": "editorHasSelection"
             }
