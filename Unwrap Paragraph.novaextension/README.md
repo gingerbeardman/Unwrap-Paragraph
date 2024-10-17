@@ -6,7 +6,7 @@ In the _TextMate_ editor this command is called Unwrap Paragraph, which is why I
 
 ## Example
 
-Before
+Before:
 ```
 	What 
 exactly does  
@@ -15,7 +15,7 @@ do with the
 text?  🤔
 ```
 
-After
+After:
 ```
 What exactly does this extension do with the text? 🤔
 ```
