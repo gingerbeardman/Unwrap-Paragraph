@@ -46,5 +46,6 @@ Source code, after:
 
 To run Unwrap Paragraph:
 
+- Select some text
 - Select the **Editor → Unwrap Paragraph** menu item; or
 - Open the command palette and type `Unwrap Paragraph`
